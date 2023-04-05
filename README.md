@@ -1,2 +1,4 @@
 # Major_Project
-Weather Forecasting Application
+Weather Forecasting Application🌤🌥
+
+Made using Open weather map 
